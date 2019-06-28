@@ -1,2 +1,3 @@
 # MergingConflicts
-hello from branch one
+Aloha dostum from branch two :)
+
